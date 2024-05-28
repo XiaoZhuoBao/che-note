@@ -7,7 +7,6 @@
                   start-page="IndustrialCatalysis.md">
 
 
-    <toc-element topic="StudyReport07.md"/>
     <toc-element topic="IndustrialCatalysis.md"/>
     <toc-element topic="StudyReport01.md"/>
     <toc-element topic="StudyReport02.md"/>
@@ -15,6 +14,7 @@
     <toc-element topic="StudyReport04.md"/>
     <toc-element topic="StudyReport05.md"/>
     <toc-element topic="StudyReport06.md"/>
+    <toc-element topic="StudyReport07.md"/>
 
 
 
