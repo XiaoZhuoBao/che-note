@@ -4,9 +4,13 @@
 
 <instance-profile id="hi"
                   name="Chemistry Note"
-                  start-page="IndustrialCatalysis.md">
+                  start-page="Catalog.md">
 
+    <toc-element topic="Catalog.md"/>
     <toc-element topic="IndustrialCatalysis.md"/>
+    <toc-element topic="IntroductionToCatalystEngineering.md"/>
+    <toc-element topic="ITCEReference.md"/>
+    <toc-element topic="StudyReport001.md"/>
     <toc-element topic="StudyReport01.md"/>
     <toc-element topic="StudyReport02.md"/>
     <toc-element topic="StudyReport03.md"/>
