@@ -4,6 +4,8 @@
 
 ## [催化剂工程导论(笔记)](IntroductionToCatalystEngineering.md)
 
+## [催化剂工程导论(附录)](ITCEReference.md)
+
 ## 学习报告
 
 ### 催化剂工程导论学习报告
