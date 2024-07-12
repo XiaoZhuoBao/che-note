@@ -11,6 +11,9 @@
 ### 催化剂工程导论学习报告
 
 #### [StudyReport001](StudyReport001.md)
+#### [StudyReport002](StudyReport002.md)
+#### [StudyReport003](StudyReport003.md)
+
 
 ### 工业催化学习报告
 
