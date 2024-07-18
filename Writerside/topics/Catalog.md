@@ -13,6 +13,8 @@
 #### [StudyReport001](StudyReport001.md)
 #### [StudyReport002](StudyReport002.md)
 #### [StudyReport003](StudyReport003.md)
+#### [StudyReport004](StudyReport004.md)
+#### [StudyReport005](StudyReport005.md)
 
 
 ### 工业催化学习报告
