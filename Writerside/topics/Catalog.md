@@ -15,6 +15,9 @@
 #### [StudyReport003](StudyReport003.md)
 #### [StudyReport004](StudyReport004.md)
 #### [StudyReport005](StudyReport005.md)
+#### [StudyReport006](StudyReport006.md)
+#### [StudyReport007](StudyReport007.md)
+
 
 
 ### 工业催化学习报告
